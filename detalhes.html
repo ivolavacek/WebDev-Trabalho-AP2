@@ -13,17 +13,20 @@
         </head>
         
         <body style="font-family: Nunito; background-color: black; color: white;">
-            <h1 style="text-align: center;">Detalhes do Jogador</h1>
+            <h1 id="tituloPrincipal" style="text-align: center;"></h1>
 
-            <div class="detalhes">
+            <div class="container">
                 <div class="foto">
+                    <span id="posicao"></span>
                     <img id="imagem">
+                    <span id="nome"></span>
                 </div>
-                <div>
-                  <strong>Nome: </strong> <span id="nome"></span><br>
-                  <strong>Descrição: </strong> <span id="descricao"></span><br>
-                  <strong>Data de Nascimento: </strong> <span id="nascimento"></span><br>
-                  <strong>Altura: </strong> <span id="altura"></span>
+                <div class="detalhes">
+                  <strong>Nome Completo:  </strong><br><span style="font-size: 24px" id="nomecomp"></span><br><br>
+                  <strong>Descrição:  </strong><br><span id="descricao"></span><br><br>
+                  <strong>Data de Nascimento:  </strong><br><span id="nascimento"></span><br><br>
+                  <strong>Altura:  </strong><br><span id="altura"></span>
+
                 </div>
             </div>
         </body>

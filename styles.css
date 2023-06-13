@@ -31,12 +31,23 @@
   .card-posicao {
     font-size: 16px;
   }
-  
-  .detalhes {
+    
+  h1 {
     display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: row;
     align-items: center;
     gap: 1em;
-    flex-direction: row;
+    max-width: 1000px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
   
   #imagem {
@@ -45,6 +56,20 @@
     height: 300px;
     object-fit: cover;
     object-position: top;
+  }
+
+  .foto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    gap: 50px;
+    font-size: 24px;
+  };
+
+  .detalhes {
+    display: block;
   }
 
   @media screen and (min-width: 768px) {

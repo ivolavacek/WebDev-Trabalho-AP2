@@ -7,7 +7,7 @@ const jogadores = [
         "descricao": "Mari iniciou sua carreira vestindo a camisa do Foz Cataratas e, logo em seguida, passou pela equipe do Santos. Pelo Internacional conquistou os títulos do Brasileiro sub-16 e 20, e o Gauchão sub-18. Ainda pela equipe colorada, fez sua estreia na categoria profissional, tornando-se a goleira mais jovem a disputar o Campeonato Brasileiro em 2022. Em seu início no Botafogo, foi convocada pela primeira vez para a Seleção Brasileira sub-20.",
         "nome_completo": "Mariana Zanella Steiak",
         "nascimento": "07/04/2004, Cascavel (PR)",
-        "altura": "1.73"
+        "altura": "1,73m"
     },
     {
         "elenco": "feminino",
@@ -17,7 +17,7 @@ const jogadores = [
         "descricao": "A goleira possui uma forte ligação com o futebol desde pequena. Assim como a maioria, Ingrid iniciou sua trajetória jogando com os meninos na rua. Como sempre se destacou entre os demais, passou a disputar campeonatos amadores espalhados pelo Rio até passar pela peneira realizada pelo Botafogo em 2020, onde foi aprovada e escolhida para fazer parte das Gloriosas.",
         "nome_completo": "Ingrid Sabino de Oliveira",
         "nascimento": "25/06/1997, Rio de Janeiro (RJ)",
-        "altura": "1,72"
+        "altura": "1,72m"
     },
     {
         "elenco": "feminino",
@@ -27,7 +27,7 @@ const jogadores = [
         "descricao": "A arqueira se destaca pela boa imposição física, experiência e muita técnica. Yasmim é a responsável por fechar o gol das Gloriosas e por grandes defesas.",
         "nome_completo": "Yasmim Cristina Seabra Pereira",
         "nascimento": "11/06/1995, Rio de Janeiro (RJ)",
-        "altura": "1,77"
+        "altura": "1,77m"
     },
     {
         "elenco": "feminino",
@@ -37,7 +37,7 @@ const jogadores = [
         "descricao": "Nascida no Canadá e com nacionalidade italiana, Kelly iniciou sua carreira nos Estados Unidos antes de desembarcar em solo europeu. Em 2022 a goleira disputou três partidas pela Seleção Italiana de beach soccer, pela Eurocopa da modalidade. Chiavaro chega no Botafogo para somar com sua segurança nas jogadas e muita técnica.",
         "nome_completo": "Kelly Chiavaro",
         "nascimento": "03/07/1996, Montreal (Canadá)",
-        "altura": "1,74"
+        "altura": "1,74m"
     },
     {
         "elenco": "feminino",
@@ -57,7 +57,7 @@ const jogadores = [
         "descricao": "Luana é uma lateral com características ofensivas, excelente nos cruzamentos e muito disciplinada taticamente. Com ela, disposição nunca falta em campo.",
         "nome_completo": "Luana Mayara Neves",
         "nascimento": "05/08/1997, Volta Redonda (RJ)",
-        "altura": "1,58"
+        "altura": "1,58m"
     },
     {
         "elenco": "feminino",
@@ -77,7 +77,7 @@ const jogadores = [
         "descricao": "Lateral esquerda de técnica apurada, comprometida com a equipe e diferenciada nas bolas paradas. Chai está em sua terceira temporada no Glorioso e faz parte do grupo das atletas que conquistaram o acesso para a série A1 em 2020. A atleta é peça essencial da equipe.",
         "nome_completo": "Chaiane Locatelli",
         "nascimento": "20/02/1995, Garibaldi (RS)",
-        "altura": "1,63"
+        "altura": "1,63m"
     },
     {
         "elenco": "feminino",
@@ -87,7 +87,7 @@ const jogadores = [
         "descricao": "Sandra chegou ao Botafogo em 2019 e é uma das atletas que faz parte do primeiro time formado pelo Clube. Revelada pelo São Bernardo, equipe de sua cidade natal, a zagueira seguiu encantando e mostrando seu futebol mundo a fora. Ao chegar no Glorioso, a atleta conquistou o acesso para a série A1 em 2020 e dois títulos cariocas.",
         "nome_completo": "Sandra Figueiredo",
         "nascimento": "08/01/1987, São Bernardo do Campo (SP)",
-        "altura": "1.68"
+        "altura": "1,68m"
     },
     {
         "elenco": "feminino",
@@ -97,7 +97,7 @@ const jogadores = [
         "descricao": "Karen se destaca na zaga Gloriosa pelo seu cabeceio e garra nas disputas de bola. A atleta conta com passagens em clubes nacionais e internacionais, além de fazer parte do elenco que garantiu o acesso para a série A1 na temporada 2020. No ano de 2022, a zagueira conquistou o segundo título Carioca com o Glorioso.",
         "nome_completo": "Káren Bender",
         "nascimento": "21/02/1996, Passo Fundo (RS)",
-        "altura": "1,75"
+        "altura": "1,75m"
     },
     {
         "elenco": "feminino",
@@ -107,7 +107,7 @@ const jogadores = [
         "descricao": "Identificada com o clube desde o berço, representa a torcida dentro de campo com sua garra e técnica. Durante sua carreira, a zagueira defendeu diferentes clubes do cenário nacional que somaram em sua bagagem na modalidade. Thamires conta com um título carioca em sua passagem pelo Vasco e na terceira temporada seguida pelo Botafogo, a atleta soma dois títulos estaduais.",
         "nome_completo": "Thamires Ferreira Alves dos Santos",
         "nascimento": "26/04/1994, Rio de Janeiro",
-        "altura": "1.72"
+        "altura": "1,72m"
     },
     {
         "elenco": "feminino",
@@ -117,7 +117,7 @@ const jogadores = [
         "descricao": "Jana Queiroz iniciou sua carreira aos 14 anos no futsal em sua cidade natal e, ao realizar uma peneira, iniciou sua carreira no Santos, onde fez a transição para o campo. Ainda no clube paulista, a zagueira recebeu sua primeira convocação para a Seleção Brasileira Sub-20, onde foi campeã sul-americana. A atleta possui passagens pela Europa e por outros clubes do Brasil.",
         "nome_completo": "Janaina Queiroz Cavalcante",
         "nascimento": "02/04/1988, Fortaleza (CE)",
-        "altura": "1.73"
+        "altura": "1,73m"
     },
     {
         "elenco": "feminino",
@@ -127,7 +127,7 @@ const jogadores = [
         "descricao": "Após período na categoria Sub-20 das Gloriosas, a zagueira reforça a equipe principal e tem como principal característica a sua força no combate contra as adversárias.",
         "nome_completo": "Natalie Gabrieli Nalon",
         "nascimento": "21/09/2002, Bituruna (PR)",
-        "altura": "1.69"
+        "altura": "1,69m"
     },
     {
         "elenco": "feminino",
@@ -137,7 +137,7 @@ const jogadores = [
         "descricao": "Ju Santos chegou ao Botafogo em 2022 para reforçar o meio-campo das Gloriosas e têm como características força física e bom passe. Possui diversos títulos nos clubes por onde passou e conquistou uma Libertadores com a Ferroviária.",
         "nome_completo": "Juliana Santos Cardoso",
         "nascimento": "24/04/1995, Curitiba (PR)",
-        "altura": "1,65"
+        "altura": "1,65m"
     },
     {
         "elenco": "feminino",
@@ -147,7 +147,7 @@ const jogadores = [
         "descricao": "Treyci representa muita força e agilidade no meio de campo. A defensora também fez parte da campanha do Napoli no Campeonato Brasileiro da Série A2 em 2020, ano onde o time subiu para a primeira divisão.",
         "nome_completo": "Treyci da Silva Campos",
         "nascimento": "27/02/1998, Porto Alegre (RS)",
-        "altura": "1,60"
+        "altura": "1,60m"
     },
     {
         "elenco": "feminino",
@@ -157,7 +157,7 @@ const jogadores = [
         "descricao": "Japa se destaca pela sua inteligência nas tomadas de decisões e possui uma técnica apurada. Chegou no Botafogo para a categoria Sub-20, onde conquistou o título inédito de campeã carioca em 2022. Na temporada 2023, a meia compõe a equipe principal das Gloriosas.",
         "nome_completo": "Ana Paula Emy Satake Yamada",
         "nascimento": "11/06/2002, São Paulo",
-        "altura": "1,69"
+        "altura": "1,69m"
     },
     {
         "elenco": "feminino",
@@ -167,7 +167,7 @@ const jogadores = [
         "descricao": "Conhecida pela sua garra nas disputas de bola, a experiente volante é respeitada por toda a equipe. A jogadora fez parte do elenco do São Paulo na conquista do Campeonato Brasileiro A2.",
         "nome_completo": "Driely Severino Ferreira",
         "nascimento": "06/07/1990, Formosas (GO)",
-        "altura": "1,66"
+        "altura": "1,66m"
     },
     {
         "elenco": "feminino",
@@ -177,7 +177,7 @@ const jogadores = [
         "descricao": "Camila chegou ao Botafogo em 2021 e agrega valor com sua técnica e visão de jogo. A meia marcou a temporada 2022 com um belíssimo gol de falta na final do Campeonato Carioca contra o Flamengo, que ajudou a dar o título de campeão para o Glorioso.",
         "nome_completo": "Camila Cristina de Oliveira Cruz",
         "nascimento": "26/10/1990, Rio de Janeiro (RJ)",
-        "altura": "1,61"
+        "altura": "1,61m"
     },
     {
         "elenco": "feminino",
@@ -187,7 +187,7 @@ const jogadores = [
         "descricao": "A atleta chegou ao Glorioso em 2022 para agregar a equipe com sua técnica. Vitorinha é o tipo de volante clássica com uma visão apurada, assim ela comanda o meio-campo alvinegro.",
         "nome_completo": "Josefa Victoria da Silva Souza",
         "nascimento": "14/08/1999, União dos Palmares (AL)",
-        "altura": "1.61"
+        "altura": "1,61m"
     },
     {
         "elenco": "feminino",
@@ -197,7 +197,7 @@ const jogadores = [
         "descricao": "Conhecida como o motorzinho da equipe, Mayara possui agilidade e velocidade com a bola nos pés. Meia experiente, possui passagem em clubes importantes no Brasil e pela China.",
         "nome_completo": "Mayara Andreia Vaz Moreira",
         "nascimento": "22/04/1995, Belém (PA)",
-        "altura": "1.6"
+        "altura": "1,60m"
     },
     {
         "elenco": "feminino",
@@ -207,7 +207,7 @@ const jogadores = [
         "descricao": "Elisa iniciou sua trajetória no futsal, a transição para o campo ocorreu na sua ida para o Kindermann. Com o incentivo da família, a atacante seguiu buscando maiores objetivos. Ela se destaca pela sua inteligência, mobilidade e forte finalização",
         "nome_completo": "Elisa Lopes Amorim",
         "nascimento": "05/01/1998, São Francisco do Sul (SC)",
-        "altura": "1,62"
+        "altura": "1,62m"
     },
     {
         "elenco": "feminino",
@@ -217,7 +217,7 @@ const jogadores = [
         "descricao": "Vânia iniciou sua trajetória no Menina Olímpica, projeto social localizado no Maranhão e chegou ao Botafogo em 2022 para fazer parte da equipe Sub-20. A atleta se destaca pela sua velocidade e boa finalização.",
         "nome_completo": "Elisvânia de Paz de Sousa",
         "nascimento": "27/06/2002, Codó (MA)",
-        "altura": "1,56"
+        "altura": "1,56m"
     },
     {
         "elenco": "feminino",
@@ -227,7 +227,7 @@ const jogadores = [
         "descricao": "A trajetória de Kelen no futebol iniciou em um campo de terra e de pés descalços, assim como a maioria das atletas. A atacante se destaca pela sua velocidade, habilidade, cabeceio e finalização. A atleta chegou ao Botafogo no ano de 2019, conquistando o acesso para a série A1 em 2020 e conta com dois títulos cariocas.",
         "nome_completo": "Kélen Bender",
         "nascimento": "21/02/1996, Passo Fundo (RS)",
-        "altura": "1.76"
+        "altura": "1,76m"
     },
     {
         "elenco": "feminino",
@@ -237,7 +237,7 @@ const jogadores = [
         "descricao": "A atacante iniciou sua trajetória no Inter de Limeira. Depois de se destacar na equipe do interior paulista, a atleta passou pela Ferroviária, em 2019, onde jogou nos últimos quatro anos. Maísa chega ao Botafogo para reforçar o ataque para a temporada de 2023, se destaca pela sua velocidade, agilidade e boa finalização.",
         "nome_completo": "Maisa Aparecida Caverzan",
         "nascimento": "23/06/2002, Limeira (SP)",
-        "altura": "1.59"
+        "altura": "1,59m"
     },
     {
         "elenco": "feminino",
@@ -247,7 +247,7 @@ const jogadores = [
         "descricao": "Kamilla se destaca na equipe pela sua garra em campo, boa técnica e visão de jogo. A atleta está no Botafogo desde 2021 e um dos seus jogos marcantes foi a final do Campeonato Carioca de 2022, onde marcou um gol fora da área, abrindo o placar na conquista sobre o Flamengo.",
         "nome_completo": "Kamilla Morais Sotero",
         "nascimento": "25/08/1994, Belo Horizonte (MG)",
-        "altura": "1,64"
+        "altura": "1,64m"
     },
     {
         "elenco": "feminino",
@@ -257,7 +257,7 @@ const jogadores = [
         "descricao": "Atleta em formação que tem como principais características a velocidade e obediência tática. Larissa surgiu em uma escolinha no bairro da Vila Kennedy (RJ). Neste período, disputou a Taça das Favelas e recebeu a proposta de teste para o Vasco, clube onde iniciou sua caminhada aos 15 anos de idade. Em 2022, chegou ao Botafogo para a equipe Sub-20, onde conquistou o título inédito da categoria e hoje incorpora a categoria principal.",
         "nome_completo": "Larissa Nascimento da Silva",
         "nascimento": "28/04/2002, Rio de Janeiro (RJ)",
-        "altura": "1,59"
+        "altura": "1,59m"
     },
     {
         "elenco": "feminino",
@@ -267,7 +267,7 @@ const jogadores = [
         "descricao": "Thaynara se destaca pela sua velocidade e boa finalização. A jogadora se apresenta na temporada 2023 das Gloriosas como uma das armas ofensivas da categoria.",
         "nome_completo": "Thaynara Virgílio Ribeiro",
         "nascimento": "02/07/2000, São Luís (MA)",
-        "altura": "1.69"
+        "altura": "1,69m"
     },
     {
         "elenco": "feminino",
@@ -277,7 +277,7 @@ const jogadores = [
         "descricao": "Atacante de muita velocidade e agilidade para buscar a finalização. Valéria é do interior do Acre e iniciou sua carreira vestindo a camisa do Assermurb por 8 anos, após esse período passou por diversos clubes no Brasil até chegar na Europa, onde atuou por 4 temporadas. Em 2022, chegou ao Botafogo e agrega valor à equipe.",
         "nome_completo": "Valéria Paula de Lima",
         "nascimento": "08/07/1993, Plácido de Castro (AC)",
-        "altura": "1,70"
+        "altura": "1,70m"
     },
     {
         "elenco": "feminino",
@@ -287,7 +287,7 @@ const jogadores = [
         "descricao": "Natural do Maranhão, Drika se destaca em campo pela sua velocidade e agilidade em transitar na defesa adversária. O chute forte também é uma característica marcante em seu jogo.",
         "nome_completo": "",
         "nascimento": "12/01/1998, Coelho Neto (MA)",
-        "altura": "1.58"
+        "altura": "1,58m"
     },
     {
         "elenco": "masculino",
@@ -327,7 +327,7 @@ const jogadores = [
         "descricao": "Goleiro promissor, Lucas Perri iniciou sua trajetória no futebol com a camisa do São Paulo e obteve inúmeras convocações para as seleções brasileiras de base. Após um ano de bastante destaque pelo Náutico, o arqueiro chega ao Glorioso para agregar valor para a defesa da meta alvinegra.",
         "nome_completo": "Lucas Estella Perri",
         "nascimento": "12/10/1997, em Valinhos (SP)",
-        "altura": "1,97cm"
+        "altura": "1,97m"
     },
     {
         "elenco": "masculino",
@@ -337,7 +337,7 @@ const jogadores = [
         "descricao": "João Fernando chega ao Glorioso muito motivado e preparado para vestir a camisa do Fogão na temporada de 2023. O jovem goleiro de 21 anos conta com convocações para a seleção brasileira e acumula títulos do Campeonato Brasileiro Sub-20, Copa do Brasil Sub-17 e Estaduais.",
         "nome_completo": "João Fernando Monteiro Siqueira",
         "nascimento": "01/03/2001, em Volta Redonda (RJ)",
-        "altura": "1m86"
+        "altura": "1,86m"
     },
     {
         "elenco": "masculino",
@@ -387,7 +387,7 @@ const jogadores = [
         "descricao": "Aguerrido e voluntarioso, Di Plácido chega ao Botafogo após anos de destaque no futebol argentino. O atleta passa a ser uma opção a mais para a lateral-direita e promete entregar o máximo de sí para defender as cores alvinegras em campo.",
         "nome_completo": "Leonel Di Plácido",
         "nascimento": "28/01/1994, em Buenos Aires-ARG",
-        "altura": "1m74"
+        "altura": "1,74m"
     },
     {
         "elenco": "masculino",
@@ -437,7 +437,7 @@ const jogadores = [
         "descricao": "Segovia chega ao Brasil para defender as cores do Botafogo e reforçar o elenco alvinegro. O defensor equatoriano foi revelado pelo El Nacional, do Equador, e esteva no Independiente desde 2019, conquistando duas Copas Sul-Americana e um título nacional. Segovia conta com convocações para a Seleção Equatoriana de base e profissional.",
         "nome_completo": "Luis Geovanny Segovia Vega",
         "nascimento": "Nascimento: 26/10/1997, em Quito-ECU",
-        "altura": "1,82cm"
+        "altura": "1,82m"
     },
     {
         "elenco": "masculino",
@@ -447,7 +447,7 @@ const jogadores = [
         "descricao": "Após disputar o Campeonato Carioca profissional pelo Nova Iguaçu, Mezenga foi observado pelo departamento captação das categorias de base do Botafogo e chegou para reforçar a equipe Sub-20. Em pouco tempo, o defensor mostrou potencial na base e logo teve a oportunidade de subir ao time principal. Com boa técnica e poder de marcação, Lucas busca agora se firmar no time de cima.",
         "nome_completo": "Lucas de Souza Mombra Rosa",
         "nascimento": "20/10/2001, em Rio de Janeiro-RJ",
-        "altura": "1,85cm"
+        "altura": "1,85m"
     },
     {
         "elenco": "masculino",
@@ -477,7 +477,7 @@ const jogadores = [
         "descricao": "Volante moderno, Danilo tem um currículo que reune muita experiência no futebol europeu. Revelado pelo Vasco, saiu muito cedo do país e atuou em Portugal, Espanha, Bélgica e França, antes de voltar ao Brasil para ser campeão da Libertadores pelo Palmeiras. Motivado, o volante quer voltar a jogar futebol com alegria pelo Botafogo.",
         "nome_completo": "Danilo Barbosa da Silva",
         "nascimento": "28/02/1996, em Simões Filho, (BA)",
-        "altura": "1,83cm"
+        "altura": "1,83m"
     },
     {
         "elenco": "masculino",
@@ -497,7 +497,7 @@ const jogadores = [
         "descricao": "Marlon Freitas chega ao Glorioso após se destacar na Sul-Americana e no Campeonato Brasileiro atuando pelo Atlético-GO. Marlon vem para somar ao elenco Alvinegro com sua força, visão de jogo e técnica. Revelado pelo Fluminense, o meio-campista também reúne experiências ao atuar fora do Brasil.",
         "nome_completo": "Marlon Rodrigues de Freitas",
         "nascimento": "27/03/1995, em Magé (RJ)",
-        "altura": "1,85cm"
+        "altura": "1,85m"
     },
     {
         "elenco": "masculino",
@@ -517,7 +517,7 @@ const jogadores = [
         "descricao": "Volante que alia versatilidade, combatividade e boa técnica, JP foi um atleta observado pelo departamento de scouting do Botafogo para integrar a equipe Sub-23. Após boas apresentações, o jovem conquistou seu espaço e foi opotunizado ao time principal em 2023.",
         "nome_completo": "João Pedro Galvão de Carvalho",
         "nascimento": "07/05/2001, em Cabo Frio (RJ)",
-        "altura": "1m84"
+        "altura": "1,84m"
     },
     {
         "elenco": "masculino",
@@ -547,7 +547,7 @@ const jogadores = [
         "descricao": "Meio-campista objetivo e com alto poder de definição, Eduardo construiu uma carreira sólida fora do país. Com experiências no futebol português e francês, o meia conquistou inúmeros títulos e se tornou ídolo na Arábia Saudita. Motivado com o desafio de defender o Glorioso, Eduardo espera conquistar também a torcida alvinegra.",
         "nome_completo": "Carlos Eduardo de Oliveira Alves",
         "nascimento": "17/10/1989, em Ribeirão Preto (SP)",
-        "altura": "1,84cm"
+        "altura": "1,84m"
     },
     {
         "elenco": "masculino",
@@ -557,7 +557,7 @@ const jogadores = [
         "descricao": "Escolhido pelo Botafogo, Gabriel Pires é um meio-campo de muita qualidade técnica e com um bom toque de bola. Após fazer a base no Resende, o meia fez carreira na Europa e chega para realizar o sonho de atuar pelo clube de coração.",
         "nome_completo": "Gabriel Appelt Pires",
         "nascimento": "18/09/1993, Resende (RJ)",
-        "altura": "1,87cm"
+        "altura": "1,87m"
     },
     {
         "elenco": "masculino",
@@ -567,7 +567,7 @@ const jogadores = [
         "descricao": "Com passagens por Crystal Palace e RWD Molenbeek, Jacob Montes é um dos representantes do conceito multiclubes ideializado pelo acionista majoritário John Textor. O atleta norte-americano chega ao Botafogo para um intercâmbio e busca se adaptar a cultura brasileira.",
         "nome_completo": "Jacob Christian Montes",
         "nascimento": "20/10/1998, em Flórida-EUA",
-        "altura": "1,80cm"
+        "altura": "1,80m"
     },
     {
         "elenco": "masculino",
@@ -587,7 +587,7 @@ const jogadores = [
         "descricao": "Bernardo Valim é cria do Glorioso, formado nas divisões de base do Clube e integrado ao profissional desde o final de 2022. O meio-campista acumula convocações para a Seleção Brasileira e esteve na excursão à Londres. O jovem talento alvinegro carrega em sua bagagem títulos com a amarelinha e no Fogão.",
         "nome_completo": "Bernardo da Silva Rocha Valim",
         "nascimento": "31/01/2006, em Niterói (RJ)",
-        "altura": "1m86"
+        "altura": "1,86m"
     },
     {
         "elenco": "masculino",
@@ -607,7 +607,7 @@ const jogadores = [
         "descricao": "Cria da base alvinegra, Luis Henrique está nem sua segunda passagem pelo Glorioso. O atacante retorna após vivência futebol europeu, ainda mais desenvolvido fisicamente. Se destaca em campo por bastante força, velocidade e objetividade nas ações ofensivas.",
         "nome_completo": "Luis Henrique Tomaz de Lima",
         "nascimento": "14/12/2001, em João Pessoa (PB)",
-        "altura": "1,81cm"
+        "altura": "1,81m"
     },
     {
         "elenco": "masculino",
@@ -637,7 +637,7 @@ const jogadores = [
         "descricao": "Natural de Sousa, na Paraíba, Tiquinho Soares desenvolveu sua carreira no futebol português e conquistou muitos títulos na Europa. Goleador por onde passou, Soares volta ao seu país para assumir a missão ser o homem forte do ataque do Glorioso.",
         "nome_completo": "Francisco das Chagas Soares dos Santos",
         "nascimento": "17/01/1991, em Sousa (PB)",
-        "altura": "1,87cm"
+        "altura": "1,87m"
     },
     {
         "elenco": "masculino",
@@ -647,7 +647,7 @@ const jogadores = [
         "descricao": "Carlos Alberto reforça a equipe do Glorioso e traz como principais características precisão e habilidade. O jovem atacante de 20 anos, revelado pelo América Mineiro, conta com convocações para a Seleção Brasileira de base e é um atleta com um futuro promissor.",
         "nome_completo": "Carlos Alberto Gomes da Silva Filho",
         "nascimento": "14/04/2002, em João Pessoa (PB)",
-        "altura": "1,79cm"
+        "altura": "1,79m"
     },
     {
         "elenco": "masculino",
@@ -657,7 +657,7 @@ const jogadores = [
         "descricao": "Artilheiro do Bahia de Feira na Série D de 2022, Janderson foi mais um jovem observado pelo departamento de scouting alvinegro para atuar pelo time Sub-23. Centroavante de bastante vigor físico e com bom aproveitamento nas finalizações, o jovem busca se firmar na equipe profissional em 2023.",
         "nome_completo": "Janderson de Carvalho Costa",
         "nascimento": "06/05/1999, em São João de Meriti (RJ)",
-        "altura": "1m89"
+        "altura": "1,89m"
     },
     {
         "elenco": "masculino",
@@ -667,7 +667,7 @@ const jogadores = [
         "descricao": "Chegando do futebol asiático, Junior Santos é um atacante de bastante força e movimentação. O centroavante baiano, que é dono de um carisma peculiar fora do campo, chega para somar valor ao setor ofensivo do Alvinegro dentro das quatro linhas.",
         "nome_completo": "José Antonio dos Santos Júnior",
         "nascimento": "11/10/1994, em Conceição de Jacuípe (BA)",
-        "altura": "1,88cm"
+        "altura": "1,88m"
     },
     {
         "elenco": "masculino",
@@ -677,7 +677,7 @@ const jogadores = [
         "descricao": "Matías é um meia canhoto de bom drible e bastante velocidade, o atleta chega ao Glorioso para somar forças no setor ofensivo. Segovia Iniciou sua trajetória no Guaraní (PAR) e coleciona passagens nas categorias de base da Seleção Paraguaia, onde atuou como titular e foi um dos destaques no último Sul-Americano Sub-20.",
         "nome_completo": "Matías Emanuel Segovia Torales",
         "nascimento": "04/01/2003, em Caaguazú (PAR)",
-        "altura": "Altura: 1,65m"
+        "altura": "1,65m"
     },
     {
         "elenco": "masculino",
