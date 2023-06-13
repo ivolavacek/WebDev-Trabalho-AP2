@@ -4,6 +4,19 @@ const jogadoresMasculinos = jogadores.filter(jogador => jogador.elenco === 'masc
 // Filtrar jogadores femininos
 const jogadorasFemininas = jogadores.filter(jogador => jogador.elenco === 'feminino');
 
+
+const manipula_click = (evento) => {
+  const clicada = evento.target;
+
+  sessionStorage.setItem('descricao', clicada.dataset.descricao);
+  sessionStorage.setItem('nome', clicada.dataset.nome);
+  sessionStorage.setItem('nascimento', clicada.dataset.nasciemnto);
+  sessionStorage.setItem('altura', clicada.dataset.altura);
+  sessionStorage.setItem('imagem', clicada.src);
+
+  window.location.href = 'detalhes.html';
+}
+
 function criarCard(jogador) {
   const card = document.createElement('div');
   card.classList.add('card');
@@ -11,7 +24,15 @@ function criarCard(jogador) {
   const imagem = document.createElement('img');
   imagem.src = jogador.imagem;
   imagem.alt = jogador.nome;
+  imagem.onclick = manipula_click;
   imagem.classList.add('card-img');
+  imagem.dataset.elenco = jogador.elenco;
+  imagem.dataset.descricao = jogador.descricao;
+  imagem.dataset.nome = jogador.nome_completo;
+  imagem.dataset.nascimento = jogador.nascimento;
+  imagem.dataset.altura = jogador.altura;
+  imagem.onmouseover = (e) => {e.target.style.width = '110%'};
+  imagem.onmouseleave = (e) => {e.target.style.width = '100%'};
 
   const nome = document.createElement('h3');
   nome.textContent = jogador.nome;

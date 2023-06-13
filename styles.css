@@ -39,6 +39,14 @@
     flex-direction: row;
   }
   
+  #imagem {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: top;
+  }
+
   @media screen and (min-width: 768px) {
     /* Em telas maiores que 768px, 4 colunas */
     .cards-container {

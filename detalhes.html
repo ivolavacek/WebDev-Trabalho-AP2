@@ -8,23 +8,23 @@
             <style>
             @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Nunito:wght@400;600&display=swap');
             </style><link rel="stylesheet" href="styles.css">
-            <!--<script src="js/jogadores.js" defer></script>-->
+            <script src="js/jogadores2023.js"></script>
+            <script src="js/detalhes.js" defer></script>
         </head>
         
-        <body>
-            <div>
+        <body style="font-family: Nunito; background-color: black; color: white;">
+            <h1 style="text-align: center;">Detalhes do Jogador</h1>
+
+            <div class="detalhes">
+                <div class="foto">
+                    <img id="imagem">
+                </div>
                 <div>
-                    <h3 id="descricao"></h3>
-                    <p>
-                        <strong>Nome completo: </strong>
-                        <strong>Nascimento: </strong>
-                        <strong>Altura: </strong>
-                    </p>
+                  <strong>Nome: </strong> <span id="nome"></span><br>
+                  <strong>Descrição: </strong> <span id="descricao"></span><br>
+                  <strong>Data de Nascimento: </strong> <span id="nascimento"></span><br>
+                  <strong>Altura: </strong> <span id="altura"></span>
                 </div>
             </div>
-
-
-            <script src="jogadores2023.js"></script>
-            <script src="card.js"></script>
         </body>
     </html>
