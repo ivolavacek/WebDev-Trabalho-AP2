@@ -1,4 +1,4 @@
-// Acessando os dados da sessionStorage
+// guarda cada atributo numa variável correspondente de acordo com os dados da sessionStorage
 const elenco = sessionStorage.getItem('elenco');
 const nome = sessionStorage.getItem('nome');
 const posicao = sessionStorage.getItem('posicao');
@@ -8,7 +8,7 @@ const nascimento = sessionStorage.getItem('nascimento');
 const altura = sessionStorage.getItem('altura');
 const imagem = sessionStorage.getItem('imagem');
 
-// Exibindo os dados na página
+// joga os dados para a página .html a partir de cada id
 document.getElementById('nome').textContent = nome;
 document.getElementById('posicao').textContent = posicao;
 document.getElementById('descricao').textContent = descricao;
@@ -17,6 +17,7 @@ document.getElementById('nascimento').innerText = nascimento;
 document.getElementById('altura').textContent = altura;
 document.getElementById('imagem').src = imagem;
 
+// título da página de detalhes personalizado de acordo com elenco
 const tituloDetalhesElement = document.getElementById('tituloPrincipal');
 
 if (elenco === 'masculino') {

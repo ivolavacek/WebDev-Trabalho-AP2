@@ -7,27 +7,37 @@
             <title>Detalhes</title>
             <style>
             @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Nunito:wght@400;600&display=swap');
-            </style><link rel="stylesheet" href="styles.css">
+            </style>
+            <link rel="stylesheet" href="styles.css">
             <script src="js/jogadores2023.js"></script>
             <script src="js/detalhes.js" defer></script>
         </head>
         
         <body style="font-family: Nunito; background-color: black; color: white;">
+            <!--h1 personalizado de acordo com elenco-->
             <h1 id="tituloPrincipal" style="text-align: center;"></h1>
 
+            <!--div container dos detalhes do(a) jogador(a)-->
             <div class="container">
+                <!--div foto da parte da esquerda/cima da página (desktop/mobile)-->
                 <div class="foto">
+                    <!--elementos <span> e <img> terão seus conteúdos carregados através do id-->
                     <span id="posicao"></span>
                     <img id="imagem">
                     <span id="nome"></span>
                 </div>
+                <!--div dos detalhes mais específicos-->
                 <div class="detalhes" style="min-width: 400px;">
-                  <strong>Nome Completo:  </strong><br><span style="font-size: 24px" id="nomecomp"></span><br><br>
-                  <strong>Descrição:  </strong><br><span id="descricao"></span><br><br>
-                  <strong>Data de Nascimento:  </strong><br><span id="nascimento"></span><br><br>
-                  <strong>Altura:  </strong><br><span id="altura"></span>
-
+                    <!--elementos <span> terão seus conteúdos carregados através do id-->
+                    <strong>Nome Completo:  </strong><br><span style="font-size: 24px" id="nomecomp"></span><br><br>
+                    <strong>Descrição:  </strong><br><span id="descricao"></span><br><br>
+                    <strong>Data de Nascimento:  </strong><br><span id="nascimento"></span><br><br>
+                    <strong>Altura:  </strong><br><span id="altura"></span>
                 </div>
+            </div>
+            <!--div do botão de voltar-->
+            <div class="button-container">
+                <a href="index.html" class="button">Voltar</a>
             </div>
         </body>
     </html>
