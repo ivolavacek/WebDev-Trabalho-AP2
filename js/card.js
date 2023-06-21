@@ -16,7 +16,12 @@ const manipula_click = (evento) => {
   sessionStorage.setItem('altura', clicada.dataset.altura);
   sessionStorage.setItem('imagem', clicada.src);
 
-  window.location.href = 'detalhes.html';
+  const audioPlayer = document.getElementById('audioPlayer');
+  audioPlayer.play();
+
+  setTimeout(() => {
+    window.location.href = 'detalhes.html';
+  }, 2000);
 }
 
 // função para criar cards 
@@ -45,6 +50,10 @@ function criarCard(jogador) {
   imagem.onmouseover = (e) => {e.target.style.width = '110%'};
   imagem.onmouseleave = (e) => {e.target.style.width = '100%'};
 
+  // criação do elemento <audio>
+  const audio = document.createElement('audio');
+  audio.src = "sons/botafogo-radio-globo.mp3";
+
   // variável 'nome' sendo um <h3> e classe 'card-title'
   const nome = document.createElement('h3');
   nome.textContent = jogador.nome;
@@ -55,10 +64,11 @@ function criarCard(jogador) {
   posicao.textContent = jogador.posicao;
   posicao.classList.add('card-posicao');
 
-  // adicionando posição, imagem e nome como elementos filhos em relação ao card
+  // adicionando posição, imagem, nome e áudio como elementos filhos em relação ao card
   card.appendChild(posicao);
   card.appendChild(imagem);
   card.appendChild(nome);
+  card.appendChild(audio);
 
   // função retorna um card por vez, depois eles serão exibidos conforme o div container
   return card;
